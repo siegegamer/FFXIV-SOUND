@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Event Key="You gain the effect of Sprint.">
+    <Sound>(Self) Sprint (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Sprint.">
+    <Sound>(Self) Sprint (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Regen.">
+    <Sound>(Self) Re-gen (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Sacred Soil">
+    <Sound>(Friendly) Sacred Soil (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Presence of Mind.">
+    <Sound>(Self) Presence of Mind (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You begin casting Protect.">
+    <Sound>(Friendly) Protect (Casting).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Regen.">
+    <Sound>(Self) Re-gen (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Protect.">
+    <Sound>(Self) Protect (Buff, Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Selene gains the effect of Fey Glow.">
+    <Sound>(Friendly) Fey Glow (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Eos loses the effect of Fey Covenant.">
+    <Sound>(Friendly) Fey Covenant (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Selene loses the effect of Fey Light.">
+    <Sound>(Friendly) Fey Light (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Selene gains the effect of Fey Light.">
+    <Sound>(Friendly) Fey Light (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Swiftcast.">
+    <Sound>(Self) Swift Cast (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="loses the effect of Virus.">
+    <Sound>(Friendly) Virus (De,Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="gains the effect of Virus.">
+    <Sound>(Friendly) Virus (De,Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Stoneskin.">
+    <Sound>(Self) Stone Skin (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Stoneskin.">
+    <Sound>(Self) Stone Skin (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Adloquium">
+    <Sound>(Self) Adloquium (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Adloquium">
+    <Sound>(Self) Adloquium (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Freecure.">
+    <Sound>(Self) Free Cure (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Freecure.">
+    <Sound>(Self) Free Cure (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Protect.">
+    <Sound>(Self) Protect (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Presence of Mind.">
+    <Sound>(Self) Presence of Mind (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Selene loses the effect of Fey Glow.">
+    <Sound>(Friendly) Fey Glow (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Eos gains the effect of Fey Covenant.">
+    <Sound>(Friendly) Fey Covenant (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Cleric Stance.">
+    <Sound>(Self) Cleric Stance (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Cleric Stance.">
+    <Sound>(Self) Cleric Stance (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="Eos gains the effect of Fey Glow.">
+    <Sound>(Friendly) Fey Glow (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="use Benediction.">
+    <Sound>(Friendly) Benediction (Casted).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="uses Benediction.">
+    <Sound>(Friendly) Benediction (Casted).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Divine Seal.">
+    <Sound>(Self) Divine Seal (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Divine Seal.">
+    <Sound>(Self) Divine Seal (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Shroud of Saints.">
+    <Sound>(Self) Shroud of Saints (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You gain the effect of Shroud of Saints.">
+    <Sound>(Self) Shroud of Saints (Buff Initialised).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+  <Event Key="You lose the effect of Swiftcast.">
+    <Sound>(Self) Swift Cast (Buff Expired).wav</Sound>
+    <Delay>0</Delay>
+  </Event>
+</Settings>
